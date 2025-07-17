@@ -3,6 +3,8 @@
 A developer utility web application featuring JSON formatting and Base64 encoding/decoding tools with history tracking.
 
 <img width="1891" height="985" alt="image" src="https://github.com/user-attachments/assets/37db0bd7-2cec-4d5c-99d8-73d57856a119" />
+<img width="1885" height="998" alt="image" src="https://github.com/user-attachments/assets/3f7166d7-87d8-4aa1-8bdb-45d1348880e3" />
+
 
 ## Features ✨
 
