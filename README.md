@@ -39,6 +39,9 @@ A developer utility web application featuring JSON formatting and Base64 encodin
 
 ### Setup
 
+**Environment Variables**:
+PORT=5000
+
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/dev-toolbox.git
@@ -47,5 +50,13 @@ A developer utility web application featuring JSON formatting and Base64 encodin
    
 ```bash
    cd backend
-  npm install
+   npm install
+   npm start
 ```
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
