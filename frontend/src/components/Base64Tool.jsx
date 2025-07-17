@@ -9,7 +9,7 @@ const Base64Tool = () => {
   const [copied, setCopied] = useState(false);
 
   const handleSubmit = async () => {
-    const url = `http://localhost:5000/api/${mode}`;
+    const url = `https://dev-toolbox-os3t.vercel.app/api/${mode}`;
     const body = mode === 'encode' ? { text: input } : { base64: input };
 
     try {

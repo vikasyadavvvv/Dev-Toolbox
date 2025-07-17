@@ -20,7 +20,7 @@ const JsonFormatter = () => {
     setError('');
 
     try {
-      const res = await fetch('http://localhost:5000/api/format-json', {
+      const res = await fetch('https://dev-toolbox-os3t.vercel.app/api/format-json', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ rawJson: input }),
