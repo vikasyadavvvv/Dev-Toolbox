@@ -62,16 +62,17 @@ A powerful developer utility web application featuring JSON formatting and Base6
 - npm or yarn
 
 ### 🏗️ Setup Instructions
+### .env (Create a .env file in Backend) PORT=5000
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/dev-toolbox.git
    cd dev-toolbox
    cd backend
-npm install
-cp .env.example .env  # Update with your credentials
-npm start
+   
+   npm install
+   npm start
 
-cd ../frontend
-npm install
-npm run dev
+   cd ../frontend
+   npm install
+   npm run dev
