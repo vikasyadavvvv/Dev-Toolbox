@@ -2,7 +2,7 @@
 
 A developer utility web application featuring JSON formatting and Base64 encoding/decoding tools with history tracking.
 
-![Dev Toolbox Screenshot](./screenshot.png)
+<img width="1891" height="985" alt="image" src="https://github.com/user-attachments/assets/37db0bd7-2cec-4d5c-99d8-73d57856a119" />
 
 ## Features ✨
 
