@@ -1,6 +1,6 @@
 # Dev Toolbox 🧰
 
-A powerful developer utility web application featuring JSON formatting and Base64 encoding/decoding tools with history tracking.
+A powerful developer utility web application featuring JSON formatting and Base64 encoding/decoding tools.
 
 ## ✨ Live Demo
 [Try it out now!](https://dev-toolbox-beta.vercel.app/) 
