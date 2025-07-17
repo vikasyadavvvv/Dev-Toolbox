@@ -3,7 +3,7 @@
 A powerful developer utility web application featuring JSON formatting and Base64 encoding/decoding tools with history tracking.
 
 ## ✨ Live Demo
-[Try it out now!](https://your-deployed-app-url.com) *(Coming soon)*
+[Try it out now!](https://dev-toolbox-beta.vercel.app/) 
 
 ## 📸 Application Screenshots
 
