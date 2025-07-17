@@ -1,10 +1,5 @@
 # Dev Toolbox 🧰
 
-![GitHub license](https://img.shields.io/github/license/yourusername/dev-toolbox)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/dev-toolbox)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/dev-toolbox)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/dev-toolbox)
-
 A powerful developer utility web application featuring JSON formatting and Base64 encoding/decoding tools with history tracking.
 
 ## ✨ Live Demo
