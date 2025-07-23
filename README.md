@@ -42,8 +42,7 @@ A powerful developer utility web application featuring JSON formatting and Base6
 | Technology | Purpose |
 |------------|---------|
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | Runtime environment |
-| ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | Web framework |
-| ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge) | ODM for MongoDB |
+| ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | Web framework 
 
 ## 🛠️ Installation
 
