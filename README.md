@@ -26,11 +26,6 @@ A powerful developer utility web application featuring JSON formatting and Base6
 - 🚫 Input validation
 - ⏱️ Performance optimized for large texts
 
-### Bonus Features
-- 🔍 Full history tracking
-- 🗃️ MongoDB database integration
-- 📊 Paginated results
-- 🌙 Dark/Light mode toggle
 
 ## 🛠️ Tech Stack
 
